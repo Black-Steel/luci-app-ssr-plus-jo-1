@@ -1,4 +1,4 @@
-
+# 此项目已移植至 https://github.com/Leo-Jo-My/luci-app-ssr-plus-Jo  开发
 # luci-app-ssr-plus
 
 This is a backup repoistory of luci-app-ssr-plus from Lean's OpenWrt project package.
